@@ -16,6 +16,8 @@ A Python application with a graphical user interface that converts images into L
 - Show the physical dimensions of the final mosaic
 - Generate detailed building instructions with 10x10 grid sections
 
+  ![00_Full_Mosaic_Overview](https://github.com/user-attachments/assets/aa8a8909-92bf-41d3-b14c-000d668b1fd0)
+
 ## Project Structure
 
 ```
