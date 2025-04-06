@@ -4,7 +4,7 @@
 
 A Python application with a graphical user interface that converts images into Lego mosaic designs. The application pixelizes an image and determines the exact Lego bricks needed to construct the mosaic.
 
-![Application Screenshot](screenshots/screenshot.png)
+![lego mosaic application](https://github.com/user-attachments/assets/fd860089-f48b-4fdb-a834-a756786793da)
 
 ## Features
 
