@@ -2,6 +2,10 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Please enjoy! I wrote the backend of this app some time ago, but vibe coded the interface as a simple project to test out cursor when it became popular. Pretty happy with how it came out—but even with cursor, I was pretty shocked at how much control is surrendered to automation. It's great for getting simple things done, but seems to me a horrible practice to rely upon. 
+
+That being said, please review the mostly AI generated README.md below!
+
 A Python application with a graphical user interface that converts images into Lego mosaic designs. The application pixelizes an image and determines the exact Lego bricks needed to construct the mosaic.
 
 ![lego mosaic application](https://github.com/user-attachments/assets/fd860089-f48b-4fdb-a834-a756786793da)
@@ -148,3 +152,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Lego color data compiled from official Lego sources 
+
